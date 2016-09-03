@@ -1,1 +1,1 @@
-This is my master branch, with slight edits, and one more.
+This is my master branch, with slight edits, and one more incorporating my test branch edits.
